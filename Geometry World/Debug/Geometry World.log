@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Geometry World(1).vcxproj, Geometry World.vcxproj, Matrix(1).vcxproj, Matrix.vcxproj, Pepe(1).vcxproj, Pepe.vcxproj, Sim Auto(1).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+c:\users\ignae\source\repos\sim auto\geometry world\main.cpp(237): warning C4804: '<': unsafe use of type 'bool' in operation
+  Geometry World.vcxproj -> C:\Users\ignae\source\repos\Sim auto\Debug\Sim Auto.exe
